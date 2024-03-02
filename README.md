@@ -6,7 +6,7 @@ Eager to learn and grab opportunities in technology😃
 
 - 🔭 Check out my portfolio Site: [V-Folio](https://lighthearted-puppy-8a1c50.netlify.app/)!
 
-- 🌱 I’m currently learning **DSA, Project Management, Node.js, MongoDB**
+- 🌱 I’m currently learning **Blockchain Technology, Web3, Solidity, Ethereum**
 - 👨🏻‍🤝‍👨🏻 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love singing/I love to play guitar🎸
 - 📫 How to reach me **vratik.zade.15@gmail.com**
