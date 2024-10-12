@@ -13,7 +13,7 @@ Eager to learn and grab opportunities in technology😃
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/vratik-zade-a94912204/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vratikzade" height="30" width="40" /></a>
-<a href="https://x.com/VratikZ" target="blank"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1728713002~exp=1728713602~hmac=5bc6bf3214bf05f6e5546a91f28085111790595d4c855ef5be587682b081304d" alt="vizzscript" height="30" width="40" align="center" background="none"/></a>
+<a href="https://x.com/VratikZ" target="blank"><img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?w=740&t=st=1728713002~exp=1728713602~hmac=5bc6bf3214bf05f6e5546a91f28085111790595d4c855ef5be587682b081304d" alt="vizzscript" height="30" width="40" align="center"/></a>
 
 
 ### Languages and Tools:
