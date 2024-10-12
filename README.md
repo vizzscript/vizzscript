@@ -38,5 +38,5 @@ Eager to learn and grab opportunities in technology😃
 ## LeetCode Stats
 ### VizzScript Card
 <p align="left">
-![LeetCode Stats](https://leetcode.card.workers.dev/vizzscript?theme=dark&font=source_code_pro&extension=activity)
+  <img flex-grow="1" src="https://leetcode.card.workers.dev/vizzscript?theme=dark&font=source_code_pro&extension=activity" />
 </p>
