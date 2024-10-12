@@ -30,10 +30,16 @@ Eager to learn and grab opportunities in technology😃
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 ## LeetCode Stats ✨👨🏻‍💻
-<p>
-  <img src="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25" />
-  <img width="400" src="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=black&border=no-border&animated=true" />
-</p>
+
+ <!-- <img src="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25" />
+  <img width="400" src="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=black&border=no-border&animated=true" />-->
+  <a href="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25">
+  <img align="center" src="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25" />
+</a>
+<a href="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=black&border=no-border&animated=true">
+  <img height=200 align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=black&border=no-border&animated=true&card_width=320" />
+</a>
+
 
 ## GeeksForGeeks Stats 🌟👨🏻‍💻
 <p>
