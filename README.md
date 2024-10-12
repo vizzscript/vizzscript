@@ -2,7 +2,7 @@
 
 Eager to learn and grab opportunities in technology😃
 
-## I'm enthusiast Full-Stack Developer!!
+## I'm currently working as Zoho Developer and I'm an ethusiast MERN Developer
 
 - 🔭 Check out my portfolio Site: [V-Folio](https://vratik-zade.netlify.app/)!
 
