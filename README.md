@@ -32,10 +32,19 @@ Eager to learn and grab opportunities in technology😃
 ## LeetCode Stats ✨👨🏻‍💻
 <p>
   <img src="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25" />
-  <img width="500" src="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=black&border=no-border&animated=true" />
+  <img width="400" src="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=black&border=no-border&animated=true" />
 </p>
 
 ## GeeksForGeeks Stats 🌟👨🏻‍💻
 <p>
   <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=vratikzmz5x" />
+</p>
+
+## Current Stats ⚡
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=vizzscript&layout=compact">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vizzscript&layout=compact" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api?username=vizzscript&show_icons=true&theme=radical">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vizzscript&show_icons=true&theme=radical&layout=compact&langs_count=8&card_width=320" />
+</a>
 </p>
