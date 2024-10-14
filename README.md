@@ -36,8 +36,8 @@ Eager to learn and grab opportunities in technology😃
   <a href="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25">
   <img align="center" src="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25" />
 </a>
-<a href="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=dark&border=no-border&animated=true">
-  <img height=200 align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=dark&border=no-border&animated=true&card_width=320" />
+<a href="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=black&border=no-border&animated=true">
+  <img height=200 align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=black&border=no-border&animated=true&card_width=320" />
 </a>
 
 
