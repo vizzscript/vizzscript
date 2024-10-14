@@ -6,7 +6,7 @@ Eager to learn and grab opportunities in technology😃
 
 - 🔭 Check out my portfolio Site: [V-Folio](https://vratik-zade.netlify.app/)!
 - 🌱 I’m currently working as *Zoho Developer* at *MJ Services*.
-- 🎯 Consistently solving questions on *LeetCode* and *GeeksForGeeks*.
+- 🎯 Consistently solving questions on [*LeetCode*](https://leetcode.com/u/vizzscript/) and [*GeeksForGeeks*](https://www.geeksforgeeks.org/user/vratikzmz5x/).
 - 👨🏻‍🤝‍👨🏻 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love singing/I love to play guitar🎸
 - 📫 How to reach me **script.vizz@gmail.com**
