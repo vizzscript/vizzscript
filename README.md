@@ -1,8 +1,6 @@
 # Hi there, I'm Vratik Zade 👋👨🏻‍💻
 
-Eager to learn and grab opportunities in technology😃
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## **Zoho Developer** || **Problem-Solver** || **MERN Developer**
