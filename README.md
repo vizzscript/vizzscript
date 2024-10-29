@@ -3,7 +3,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## **Zoho Developer** || **Problem-Solver** || **MERN Developer**
+## **MERN Developer** || **Zoho Developer** || **Problem-Solver**
 
 - 🔭 Check out my portfolio Site: [V-Folio](https://vratik-zade.netlify.app/)!
 - 🌱 I’m currently working as *Zoho Developer* at *MJ Services*.
