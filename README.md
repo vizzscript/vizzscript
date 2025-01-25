@@ -3,14 +3,13 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## **MERN Developer** || **Zoho Developer** || **Problem-Solver**
+## **Software Developer** || **MERN & Java Developer** || **Problem-Solver**
 
 - 🔭 Check out my portfolio Site: [V-Folio](https://vratik-zade.netlify.app/)!
-- 🌱 I’m currently working as *Zoho Developer* at *MJ Services*.
-- 🎯 Consistently solving questions on [*LeetCode*](https://leetcode.com/u/vizzscript/) and [*GeeksForGeeks*](https://www.geeksforgeeks.org/user/vratikzmz5x/).
+- 🌱 I’m currently working as *Graduate Engineer Trainee* at *Pinnacle Teleservices Pvt Ltd, Nagpur*.
 - 👨🏻‍🤝‍👨🏻 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love singing/I love to play guitar🎸
-- 📫 How to reach me **script.vizz@gmail.com**
+- 📫 How to reach me **vratik.zade.15@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vratik-zade-a94912204) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VratikZ) 
@@ -21,23 +20,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vizzscript&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## LeetCode Stats ✨👨🏻‍💻
-
- <!-- <img src="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25" />
-  <img width="400" src="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=black&border=no-border&animated=true" />-->
-  <a href="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25">
-  <img align="center" src="https://leetcard.jacoblin.cool/vizzscript?theme=dark&font=Andika%20New%20Basic&ext=contest&width=500&height=100&border=0&radius=25" />
-</a>
-<a href="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=dark&border=no-border&animated=true">
-  <img height=200 align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=vizzscript&theme=dark&border=no-border&animated=true&card_width=320" />
-</a>
-
-
-## GeeksForGeeks Stats 🌟👨🏻‍💻
-<p>
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=vratikzmz5x" />
-</p>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vizzscript&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
