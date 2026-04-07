@@ -5,7 +5,7 @@
 
 ## **Software Development Engineer** || **MERN & Java Developer** || **Problem-Solver**
 
-- 🌐 Check out my personal portfolio, 👉 [vzscript](https://v0-vzscript.vercel.app/)
+- 🌐 Check out my personal portfolio, 👉 [vzscript](https://vratik-dev.vercel.app/)
 - 🌱 I’m currently working as *Jr. Software Developer* at *Pinnacle Teleservices Pvt Ltd, Nagpur*.
 - 👨🏻‍🤝‍👨🏻 I’m looking to collaborate with other developers.
 - ⚡ Fun fact: I love singing/I love to play guitar🎸
